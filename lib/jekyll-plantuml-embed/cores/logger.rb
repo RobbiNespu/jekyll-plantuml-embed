@@ -6,8 +6,6 @@ module Jekyll::PlantUML
   class Logger
     def self.display_info
       self.log "Jekyll PlantUML #{Jekyll::PlantUML::VERSION}"
-      self.log 'A Jekyll plugin to provide powerful supports.'
-      self.log 'https://github.com/robbinespu/jekyll-plantuml'
     end
 
     def self.log(content)
