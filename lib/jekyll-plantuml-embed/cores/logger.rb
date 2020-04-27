@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'jekyll-plantuml/version'
+require 'jekyll-plantuml-embed/version'
 
 module Jekyll::PlantUML
   class Logger
