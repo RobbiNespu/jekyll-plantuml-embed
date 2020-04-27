@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.version       = Jekyll::PlantUML::VERSION
   spec.authors       = ["robbinespu"]
   spec.email         = ["robbinespu@gmail.com"]
-  spec.summary       = "A Jekyll plugin to provide plantuml features."
+  spec.summary       = "A Jekyll plugin to simplify the creation of diagrams and flowcharts in your posts and pages with PlantUML"
   spec.homepage      = "https://github.com/robbinespu/jekyll-plantuml-embed"
   spec.license       = "MIT"
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
