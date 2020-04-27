@@ -5,7 +5,9 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/aafba8fb4df9ac92e485/maintainability)](https://codeclimate.com/github/RobbiNespu/jekyll-plantuml-embed/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/cd56b207f327603662a1/test_coverage)](https://codeclimate.com/github/robbinespu/jekyll-plantuml/test_coverage)
 
-A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, etc.
+A Jekyll plugin to simplify the creation of diagrams and flowcharts in your posts and pages with PlantUML (only).
+
+P/s : This is fork project from [https://rubygems.org/gems/jekyll-spaceship](https://rubygems.org/gems/jekyll-spaceship) 
 
 ## Table of Contents
 
