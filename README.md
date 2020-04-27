@@ -66,7 +66,32 @@ or
 Bob -> Alice : hello world
 ```
 ````
+### self note:
 
+How to built gem file
+```
+$ gem build jekyll-plantuml-embed.gemspec
+  Successfully built RubyGem
+  Name: jekyll-plantuml-embed
+  Version: 1.0.8
+  File: jekyll-plantuml-embed-1.0.8.gem
+```
+
+How to push gem file
+```
+$ gem push jekyll-plantuml-embed-1.0.8.gem
+Pushing gem to https://rubygems.org...
+Successfully registered gem: jekyll-plantuml-embed (1.0.8)
+```
+
+How to delete pushed gem file
+```
+gem update --system
+gem install gemcutter
+
+$ gem yank
+A version argument is required: gem yank GEM -v VERSION [-p PLATFORM] [--key KEY_NAME] [--host HOST]
+```
 ## Credits
 
 - [Jekyll](https://github.com/jekyll/jekyll) - A blog-aware static site generator in Ruby.
