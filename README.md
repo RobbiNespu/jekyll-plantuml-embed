@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/robbinespu/jekyll-plantuml.svg?branch=master)](https://travis-ci.org/robbinespu/jekyll-plantuml)
 [![Gem Version](https://badge.fury.io/rb/jekyll-plantuml-embed.svg)](https://badge.fury.io/rb/jekyll-plantuml-embed)
-[![Code Climate](https://codeclimate.com/github/robbinespu/jekyll-plantuml/badges/gpa.svg)](https://codeclimate.com/github/robbinespu/jekyll-plantuml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/aafba8fb4df9ac92e485/maintainability)](https://codeclimate.com/github/RobbiNespu/jekyll-plantuml-embed/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/cd56b207f327603662a1/test_coverage)](https://codeclimate.com/github/robbinespu/jekyll-plantuml/test_coverage)
 
 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, etc.
