@@ -2,6 +2,6 @@
 
 module Jekyll
   module PlantUML
-    VERSION = "1.0.7"
+    VERSION = "1.0.8"
   end
 end
