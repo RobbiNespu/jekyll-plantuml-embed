@@ -16,8 +16,8 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   spec.required_ruby_version = ">= 2.5.0"
   spec.add_runtime_dependency "nokogiri", "~> 1.6"
-  spec.add_development_dependency "jekyll", "~> 3.8"
-  spec.add_development_dependency "bundler", "~> 2.1.4"
+  spec.add_development_dependency "jekyll", "~> 3.8" 
+  spec.add_development_dependency "bundler", ">= 2.2.33"
   spec.add_development_dependency "rake", "~> 12.0"
   spec.add_development_dependency "rspec", "~> 3.0"
 end
